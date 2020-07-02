@@ -31,7 +31,7 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 10
 
-THEME = 'pelican-mg'
+THEME = 'themes/pelican-mg'
 
 JINJA_ENVIRONMENT = {
     "extensions": ["jinja2.ext.i18n"],
