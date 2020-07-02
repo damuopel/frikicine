@@ -31,5 +31,14 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 10
 
+THEME = 'pelican-mg'
+
+JINJA_ENVIRONMENT = {
+    "extensions": ["jinja2.ext.i18n"],
+}
+
+PLUGIN_PATHS = ["plugins"]
+PLUGINS = ["i18n_subsites", ]
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
