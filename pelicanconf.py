@@ -31,9 +31,7 @@ DEFAULT_PAGINATION = 10
 
 THEME = 'themes/pelican-mg'
 
-
 PLUGIN_PATHS = ["plugins"]
-
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

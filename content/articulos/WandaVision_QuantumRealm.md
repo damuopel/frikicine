@@ -1,10 +1,11 @@
 Title: WandaVision introduce una nueva explicación al "Reino Cuántico"
 Date: 2021-02-01
-Summary: WandaVision episode 4 introduced cosmic radiation into the MCU - Marvel's newest pseudo-scientific explanation after the Quantum Realm.
-Image: img/Logo.png
+Summary: El episodio 4 de WandaVision introduce la radiación cósmica en el MCU - la nueva justificación pseudo-científica.
+Image: img/WandaVision_QuantumRealm.jpg
 
 <figure>
-    <img src = '/img/Logo.png' class = 'center'/>
+    <img src = '/img/WandaVision_QuantumRealm.jpg' class = 'center'/>
 </figure>
 
-WandaVision introduces the next pseudo-scientific explanation for super-powers in the MCU - cosmic energy. In theory, the Marvel Cinematic Universe is built on a scientific foundation. When Marvel introduced magic in Doctor Strange, for example, they took care to consult with a range of scientists on everything from quantum mechanics to string theory in order to ensure their version of magic fit in a world of super-soldiers and exo-armored Avengers.
+WandaVision introduce la próxima explicación pseudo-científica para los superpoderes en el MCU - energía cósmica. En teoría, el MCU esta contruido en base al fundamento científico. Cuando Marvel introdujo la magia en Doctor Extraño, por ejemplo, consultaron con gran variedad de científicos de diversos campos para asegurarse de que su versión de la magia cabía en un mundo de supersoldados y vengadores con exo-esqueletos.
+
