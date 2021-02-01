@@ -6,6 +6,9 @@ AUTHOR = 'David'
 SITENAME = 'Frikicine'
 SITEURL = ''
 DESCRIPTION = 'Blog sobre noticias relacionadas con el mundo friki en el cine'
+FAVICON = '/img/Logo.png'
+LOGO = '/img/Logo.png'
+SITESUBTITLE = 'Blog sobre noticias del mundo friki en el cine'
 
 PATH = 'content'
 
